@@ -19,3 +19,5 @@ Assembly language is used to teach computing concepts to students at a low level
 ![View](https://user-images.githubusercontent.com/8284016/117579381-824f4100-b0ea-11eb-8aa9-8e56806316c8.png)
 
 Notes: The appliation uses the Keystone framework for demonstration purposes.  Keystone was originally developed by Nguyen Anh Quynh et al. and is licensed under GPLv2. More information about contributors and license terms can be found in the files [`KS-AUTHORS.TXT`](https://github.com/Finnvoor/ARMSandbox/blob/main/ARMSandbox/KS-AUTHORS.TXT), [`KS-CREDITS.TXT`](https://github.com/Finnvoor/ARMSandbox/blob/main/ARMSandbox/KS-CREDITS.TXT), [`KS-COPYING`](https://github.com/Finnvoor/ARMSandbox/blob/main/ARMSandbox/KS-COPYING), and the Keystone engine [repository](https://github.com/keystone-engine/keystone).
+
+Some assets used in this application are public domain licensed assets found on [Kenney.nl](https://kenney.nl)
