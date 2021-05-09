@@ -11,3 +11,7 @@ A [Swift Package](https://swift.org/package-manager/) was created containing the
 
 ## Abstract
 Assembly language is used to teach computing concepts to students at a low level.  This project aimed to create a simulator application analogous to an interactive textbook that can be used to engage and teach ARM assembly language to students.  Taking into account current simulators and the existing research on motivation and engagement techniques, the application was designed to teach fundamental concepts using a visual sandbox that written programs interact with and control.  The application was implemented as a self-contained iPad application, requiring little effort to download and run for free from the Apple App Store.  This app enables students to learn fundamental computing concepts from included lessons and allows course instructors to develop custom lessons for use in an assembly language course.
+
+## Screenshots
+![Lessons](https://user-images.githubusercontent.com/8284016/117579379-7fece700-b0ea-11eb-8bd2-dc00887e81aa.png)
+![View](https://user-images.githubusercontent.com/8284016/117579381-824f4100-b0ea-11eb-8aa9-8e56806316c8.png)
