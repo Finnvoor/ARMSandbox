@@ -3,7 +3,7 @@ The source code for "An ARM Simulator Application for Teaching Assembly Language
 
 A [Swift Package](https://swift.org/package-manager/) was created containing the assembler and emulator code that can be found [here](https://github.com/Finnvoor/AsmEmu).  The assembler makes use of [Tree-sitter](https://tree-sitter.github.io/tree-sitter/) to parse ARM programs into a syntax tree.
 
-A PDF of the final report can be found [here]().
+A PDF of the final report can be found [here](https://github.com/Finnvoor/ARMSandbox/blob/main/An%20ARM%20Simulator%20Application%20for%20Teaching%20Assembly%20Language.pdf).
 
 ## Usage
 - Clone or download the repository and open the `.xcodeproj` file in Xcode.  
