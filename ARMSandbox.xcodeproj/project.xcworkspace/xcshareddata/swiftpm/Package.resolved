@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AsmEmu",
+        "repositoryURL": "https://github.com/Finnvoor/AsmEmu.git",
+        "state": {
+          "branch": "main",
+          "revision": "7e07410d11b193432d70ea7352100465e8e98ba1",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
